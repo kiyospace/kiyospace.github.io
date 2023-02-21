@@ -2,7 +2,7 @@
 title: 叶夕青兮
 description: 生活就是一本书，一壶茶，一个阳光明媚的下午！
 locale: zh
-email: "zhangshiyu1992@hotmail.com"
+email: "x@kiyo.space"
 url: "https://kiyo.space"
 social:
   github: "erlzhang"
@@ -11,7 +11,7 @@ social:
 logo: /img/logo.svg
 # rss: "/feed.xml"
 theme: 'jekyll-theme-persephone'
-img_prefix: https://erl.im
+img_prefix: https://kiyo.space
 theme_setting:
   blog_page: "blog/index.md"
   about_page: "about.md"
